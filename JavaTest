@@ -1,0 +1,12 @@
+public class JavaTest{
+
+	public static void main(String[] args){
+
+		System.out.println("Hello World!!");
+		System.out.println("개피곤하다 진짜~~");
+		
+		for(int i=0; i<30; i++){
+		System.out.println("집가고싶다");
+		}
+	}
+}
