@@ -15,6 +15,13 @@ public class Test1 {
 		System.out.println("ㅎㅇ");
 		System.out.println("ㅎㅇ");
 		
+		/* Java API DOC : Java에서 제공해주는 코드의 사용법이 설명되어있는 문서
+		 * 
+		 * DOC 확인 방법
+		 * 1) goole -> java 21 api 검색
+		 * 
+		 * 2) 궁금한 코드 클릭 -> shift + f2
+		 */
+		
 	}
-
 }
