@@ -39,6 +39,6 @@ public class Cat extends Animal{
 	
 	@Override
 	public void eat() {
-		System.out.println("고양이 : 4족 보행, 사쭌사뿐 움직임");
+		System.out.println("고양이 : 깨작 먹음");
 	}
 }

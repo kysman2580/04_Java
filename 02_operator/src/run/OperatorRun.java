@@ -26,6 +26,6 @@ public class OperatorRun {
 	
 //	ex.method2();
 	
-	ex.method3();
+//	ex.method3();
 	}
 }

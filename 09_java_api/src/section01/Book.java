@@ -60,7 +60,8 @@ public class Book {
 	 *    (동등 비교)
 	 */
 	@Override
-	public boolean equals(Object obj) {
+	public boolean equals(Object obj) { 
+		// equals는 Object 클래스에서 상속받은 메서드를 Book 클래스에서 오버라이딩 한 것임.
 		
 		// 같은 객체를 참조하고 있는 경우(주소가 같은 경우)
 		// -> 같은 객체 비교하는데 시간 낭비 하지 말자
